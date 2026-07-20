@@ -29,4 +29,4 @@ graph = StateGraph(ChatState)
 graph.add_node('ai_chat', ai_chat)
 graph.add_edge(START, 'ai_chat')
 graph.add_edge('ai_chat', END)
-chatbot = graph.compile(checkpointer=checkpointer)
+
