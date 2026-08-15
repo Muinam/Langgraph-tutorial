@@ -4,3 +4,6 @@ langchain-openai
 python-dotenv
 streamlit
 langgraph-checkpoint-sqlite
+langchain-community
+requests
+ddgs
