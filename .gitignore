@@ -2,3 +2,5 @@
 myenv
 __pycache__
 chatbot.db
+.github
+.ruff_cache

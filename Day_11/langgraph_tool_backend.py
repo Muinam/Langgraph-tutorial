@@ -17,7 +17,7 @@ load_dotenv()
 # -------------------
 # 1. LLM
 # -------------------
-llm = llm = ChatOpenAI(
+llm = ChatOpenAI(
     model="llama-3.1-8b-instant",
     api_key=os.getenv("Grok_Api_key"),
     base_url="https://api.groq.com/openai/v1"

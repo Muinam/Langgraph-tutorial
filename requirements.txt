@@ -7,3 +7,4 @@ langgraph-checkpoint-sqlite
 langchain-community
 requests
 ddgs
+langchain_mcp_adapters
