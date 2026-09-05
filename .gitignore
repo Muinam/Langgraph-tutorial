@@ -4,3 +4,5 @@ __pycache__
 chatbot.db
 .github
 .ruff_cache
+docker_cmd.txt
+Notes.txt
